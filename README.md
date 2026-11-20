@@ -1,2 +1,2 @@
-# Aduoermusic
+# aduoermusic
 aduoermusic插件
